@@ -1,7 +1,7 @@
 ### Hi there, I'm Natan Oliveira 👋
 
 #### Full Stack Developer | Tech Lead | Systems Analyst  
-Node.js | NestJS | PHP | React | TypeScript | SQL/NoSQL | RESTful APIs | Scalable Architecture | Agile Methodologies | Team Management
+Node.js | NestJS | PHP | React | TypeScript | Python | SQL/NoSQL | RESTful APIs | Scalable Architecture | Agile Methodologies | Team Management
 
 ---
 
