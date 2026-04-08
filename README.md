@@ -28,7 +28,7 @@ My expertise includes **strategic planning, team leadership, and building scalab
 ### ⚙️ Tech Stack  
 
 **Languages & Core:**  
-<img src="https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript" /> <img src="https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript" /> <img src="https://img.shields.io/badge/-PHP-000?style=flat&logo=php" /> <img src="https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql" /> <img src="https://img.shields.io/badge/-NoSQL-000?style=flat&logo=mongodb" />  
+<img src="https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript" /> <img src="https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript" /> <img src="https://img.shields.io/badge/-PHP-000?style=flat&logo=php" /> <img src="https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql" /> <img src="https://img.shields.io/badge/-NoSQL-000?style=flat&logo=mongodb" /> <img src="https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript" /> <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python" />
 
 **Frameworks & Libraries:**  
 <img src="https://img.shields.io/badge/-Node.js-000?style=flat&logo=nodedotjs" /> <img src="https://img.shields.io/badge/-NestJS-000?style=flat&logo=nestjs" /> <img src="https://img.shields.io/badge/-Express.js-000?style=flat&logo=express" /> <img src="https://img.shields.io/badge/-React-000?style=flat&logo=react" /> <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs" /> <img src="https://img.shields.io/badge/-AngularJS-000?style=flat&logo=angularjs" /> <img src="https://img.shields.io/badge/-jQuery-000?style=flat&logo=jquery" /> <img src="https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=tailwindcss" />  
